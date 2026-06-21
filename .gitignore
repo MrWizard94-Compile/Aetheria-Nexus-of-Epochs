@@ -1,0 +1,8 @@
+instance/
+overrides/mods/*.jar
+!overrides/mods/.gitkeep
+manifest/modlist.html
+*.log
+.DS_Store
+.gradle/
+build/
